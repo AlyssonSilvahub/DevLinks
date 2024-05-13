@@ -36,7 +36,7 @@ O DevLinks é um programa para facilitar o acesso ao usuário sobre perfis de vi
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/SHfruVh00GVUJYvUeIpFyW/DevLinks-%E2%80%A2-Projeto-Discover-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/SHfruVh00GVUJYvUeIpFyW/DevLinks-%E2%80%A2-Projeto-Discover-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by AlyssonSilva :wave: 
+Feito com ♥ by AlyssonSilva :wave:
